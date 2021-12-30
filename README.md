@@ -48,6 +48,9 @@ Testing | Andrew | Stress Testing | Black Box Testing
 2. Create Doctor Model
 3. Create Reception Model
 4. Create Nurse Model
+## Far Vision
+The Far vision after finishing most of the sprints is creating a working hospital system that should help patients set appointments with doctors and receptionsts with the abilities to admit new patients and create new accounts for them all that under the super vision of System admins who should initiate the system and its steup at first
+
 ---
 ## Story Points Estimation<br>
 1. Story Point Estimate is set based on how many functional requirments does a story have.
